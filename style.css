@@ -1,5 +1,12 @@
+html {
+  background-color: #E6BE2E;
+  padding:10px
+}
+
+
 h1{
-  top: 10em;
+
+  top: 5em;
   width: 100%;
   display: inline;
   clear: none;
@@ -7,12 +14,12 @@ h1{
   margin-left: 0em;
   padding: 0em;
   font-size: 5em;
-  font-family: sans-serif;
+  font-family: castellar;
 }
 
 
 ul {
-  top: 20em;
+  top: 10em;
   width: 100%;
   display: inline-block;
   clear: none;
@@ -74,4 +81,9 @@ img{
   margin-left: 10em;
   margin-right: 10em;
   padding: 1em 1em;
+}
+
+picRight{
+  float:right;
+  margin-left:20px
 }
