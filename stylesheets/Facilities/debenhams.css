@@ -1,0 +1,200 @@
+body {
+  padding-top: 70px;
+
+}
+
+.checked {
+  color: orange;
+}
+
+h1{
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 50px;
+letter-spacing: 0px;
+word-spacing: 0px;
+color: #A0A0A0;
+font-weight: 700;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: small-caps;
+text-transform: none;
+}
+
+#Facilities_Available{
+font-family: "Arial Black", Helvetica, sans-serif;
+font-size: 35px;
+letter-spacing: 0px;
+word-spacing: 0px;
+color: #FFCC00;
+font-weight: 700;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: none;
+text-transform: none;
+
+}
+
+
+
+
+
+#Our_Rating{
+  font-family: "Arial Black", Helvetica, sans-serif;
+  font-size: 35px;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  color: #FFCC00;
+  font-weight: 700;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: none;
+  text-transform: none;
+}
+
+.Our_Rating_Full{
+  background-color:#fff8a0;
+  border:1px solid #EFEFEF;
+  padding:15px 15px 20px 15px;
+  border-radius:3px;
+}
+
+.rating-block{
+  font-family: "Arial Black", Helvetica, sans-serif;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  font-weight: 700;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: none;
+  text-transform: none;
+
+
+}
+
+
+h6{
+font-family: "Arial", Helvetica, sans-serif;
+font-size: 20px;
+letter-spacing: 0px;
+word-spacing: 0px;
+font-weight: 400;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: italic;
+font-variant: normal;
+text-transform: none;
+}
+
+.bee_fresh_says{
+  font-family: "Arial Black", Helvetica, sans-serif;
+  font-size: 28px;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  color: #FFCC00;
+  font-weight: 700;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+
+
+.debenhams_img{
+  height: 20em;
+  width: 20em;
+  display: table-cell;
+  vertical-align: middle;
+
+  background-color:#fffFCC;
+  border:1px solid #EFEFEF;
+  padding:15px 15px 20px 15px;
+  border-radius:3px;
+
+}
+
+
+hr {
+  -moz-border-bottom-colors: none;
+  -moz-border-image: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: #EEEEEE -moz-use-text-color #FFFFFF;
+  border-style: solid none;
+  border-width: 1px 0;
+  margin: 18px 0;
+}
+
+
+.rating-block{
+font-family: "Arial Black", Helvetica, sans-serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn-grey{
+    background-color:#D8D8D8;
+	color:#FFF;
+}
+.rating-block{
+	background-color:#fff8a0;
+	border:1px solid #EFEFEF;
+	padding:15px 15px 20px 15px;
+	border-radius:3px;
+}
+.bold{
+	font-weight:700;
+}
+.padding-bottom-7{
+	padding-bottom:7px;
+}
+
+.review-block{
+	background-color:#FAFAFA;
+	border:1px solid #EFEFEF;
+	padding:15px;
+	border-radius:3px;
+	margin-bottom:15px;
+}
+.review-block-name{
+	font-size:12px;
+	margin:10px 0;
+}
+.review-block-date{
+	font-size:12px;
+}
+.review-block-rate{
+	font-size:13px;
+	margin-bottom:15px;
+}
+.review-block-title{
+	font-size:15px;
+	font-weight:700;
+	margin-bottom:10px;
+}
+.review-block-description{
+	font-size:13px;
+}
+
+.img-rounded{
+  position: relative;
+	height: 5px, 5px;
+
+}
