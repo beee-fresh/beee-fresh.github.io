@@ -1,6 +1,6 @@
 var locations  = [
       ["Debenhams", 53.4823, -2.2385, "category1",
-        'Provides toilet facilities</p><a href="../debenhams.html" target="blank">View Fact File Page</a>',1],
+        'Provides toilet facilities</p><a href="http://beee-fresh.github.io/new/debenhams.html" target="blank">View Fact File Page</a>',1],
       ["Starbucks", 53.481814,-2.238014, "category1",
         'Provides toilet facilities </p><a href="starbucks.com" target="blank">Visit Facilities</a>',1],
       ["Starbucks", 53.481814,-2.238014, "category2",
