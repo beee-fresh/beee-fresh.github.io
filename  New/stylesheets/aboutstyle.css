@@ -21,8 +21,11 @@ text-decoration: none solid rgb(68, 68, 68);
 font-style: normal;
 font-variant: normal;
 text-transform: none;
+}
 
-
+.Code_First_img{
+  display: table-cell;
+  vertical-align: middle;
 }
 
 span.accessing_free_and_fresh{
